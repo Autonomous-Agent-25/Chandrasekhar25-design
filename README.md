@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chandrasekhar25-design
-- 👀 I’m interested in scientific computing 
-- 🌱 I’m currently learning full vehicle modelling
-- 💞️ I’m looking to collaborate on model based design and scientific computing
+- 👋 Hi, I’m @Agent25
+- 👀 I’m interested in generative AI and reinforcement learning.
+- 🌱 I’m currently learning deep RL.
+- 💞️ I’m looking to collaborate on generative AI and reinforcement learning.
 - 📫 How to reach me chandrasekharjinendran@gmail.com
 
 <!---
