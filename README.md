@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agent25
+- 👋 Hi, I’m @Autonomous-Agent-25
 - 👀 I’m interested in generative AI and reinforcement learning.
 - 🌱 I’m currently learning deep RL.
 - 💞️ I’m looking to collaborate on generative AI and reinforcement learning.
